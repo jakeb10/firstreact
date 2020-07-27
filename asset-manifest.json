@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/firstreact/static/css/main.75df9f48.chunk.css",
+    "main.js": "/firstreact/static/js/main.9842cf4a.chunk.js",
+    "main.js.map": "/firstreact/static/js/main.9842cf4a.chunk.js.map",
+    "runtime-main.js": "/firstreact/static/js/runtime-main.376334cc.js",
+    "runtime-main.js.map": "/firstreact/static/js/runtime-main.376334cc.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/firstreact/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.fa4b67ff.chunk.js": "/firstreact/static/js/2.fa4b67ff.chunk.js",
+    "static/js/2.fa4b67ff.chunk.js.map": "/firstreact/static/js/2.fa4b67ff.chunk.js.map",
+    "index.html": "/firstreact/index.html",
+    "precache-manifest.399d37522db8a25034a64efb485be7ba.js": "/firstreact/precache-manifest.399d37522db8a25034a64efb485be7ba.js",
+    "service-worker.js": "/firstreact/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/firstreact/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.75df9f48.chunk.css.map": "/firstreact/static/css/main.75df9f48.chunk.css.map",
+    "static/js/2.fa4b67ff.chunk.js.LICENSE.txt": "/firstreact/static/js/2.fa4b67ff.chunk.js.LICENSE.txt",
+    "static/media/mintbean.png": "/firstreact/static/media/mintbean.cf18b629.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.376334cc.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.fa4b67ff.chunk.js",
+    "static/css/main.75df9f48.chunk.css",
+    "static/js/main.9842cf4a.chunk.js"
+  ]
+}
